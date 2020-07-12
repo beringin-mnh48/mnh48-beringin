@@ -5,13 +5,14 @@ FamilyName: MNH48 Beringin
 Weight: Regular
 Copyright: Copyright (c) 2020, Yaya MNH48.\nReleased under SIL Open Font License.\n\nFont for Aksara Beringin.
 UComments: "2020-7-11: Created with FontForge (http://fontforge.org)"
-Version: 001.000
+Version: 1.1
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
 InvalidEm: 0
+sfntRevision: 0x0001199a
 LayerCount: 3
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
@@ -24,7 +25,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1594506946
-ModificationTime: 1594522168
+ModificationTime: 1594588022
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -40,349 +41,39 @@ HheadDescent: 0
 HheadDOffset: 1
 MarkAttachClasses: 1
 DEI: 91125
-Encoding: ISO8859-1
+Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 14 14 9
+WinInfo: 0 14 9
 BeginPrivate: 0
 EndPrivate
-BeginChars: 256 255
+BeginChars: 65536 66
 
 StartChar: uni0000
 Encoding: 0 0 0
 Width: 600
 VWidth: 0
 Flags: W
+HStem: 450 130<260.902 343.629>
+VStem: 240 130<470.902 553.629>
 LayerCount: 3
 Fore
-Validated: 1
-EndChar
-
-StartChar: uni0001
-Encoding: 1 1 1
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0002
-Encoding: 2 2 2
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0003
-Encoding: 3 3 3
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0004
-Encoding: 4 4 4
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0005
-Encoding: 5 5 5
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0006
-Encoding: 6 6 6
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0007
-Encoding: 7 7 7
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0008
-Encoding: 8 8 8
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0009
-Encoding: 9 9 9
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni000A
-Encoding: 10 10 10
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni000B
-Encoding: 11 11 11
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni000C
-Encoding: 12 12 12
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni000D
-Encoding: 13 13 13
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni000E
-Encoding: 14 14 14
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni000F
-Encoding: 15 15 15
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0010
-Encoding: 16 16 16
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0011
-Encoding: 17 17 17
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0012
-Encoding: 18 18 18
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0013
-Encoding: 19 19 19
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0014
-Encoding: 20 20 20
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0015
-Encoding: 21 21 21
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0016
-Encoding: 22 22 22
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0017
-Encoding: 23 23 23
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0018
-Encoding: 24 24 24
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0019
-Encoding: 25 25 25
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni001A
-Encoding: 26 26 26
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni001B
-Encoding: 27 27 27
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni001C
-Encoding: 28 28 28
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni001D
-Encoding: 29 29 29
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni001E
-Encoding: 30 30 30
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni001F
-Encoding: 31 31 31
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: space
-Encoding: 32 32 32
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
+SplineSet
+240 510 m 0
+ 240 540 270 580 300 580 c 0
+ 330 580 370 540 370 510 c 0
+ 370 480 330 450 300 450 c 0
+ 270 450 240 480 240 510 c 0
+EndSplineSet
 Validated: 1
 EndChar
 
 StartChar: exclam
-Encoding: 33 33 33
+Encoding: 33 33 1
 Width: 600
 VWidth: 0
 Flags: W
@@ -424,68 +115,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: quotedbl
-Encoding: 34 34 34
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: numbersign
-Encoding: 35 35 35
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: dollar
-Encoding: 36 36 36
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: percent
-Encoding: 37 37 37
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ampersand
-Encoding: 38 38 38
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: quotesingle
-Encoding: 39 39 39
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: parenleft
-Encoding: 40 40 40
+Encoding: 40 40 2
 Width: 600
 VWidth: 0
 Flags: W
@@ -510,7 +141,7 @@ Validated: 1
 EndChar
 
 StartChar: parenright
-Encoding: 41 41 41
+Encoding: 41 41 3
 Width: 600
 VWidth: 0
 Flags: W
@@ -534,28 +165,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: asterisk
-Encoding: 42 42 42
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: plus
-Encoding: 43 43 43
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: comma
-Encoding: 44 44 44
+Encoding: 44 44 4
 Width: 600
 VWidth: 0
 Flags: W
@@ -583,18 +194,8 @@ EndSplineSet
 Validated: 5
 EndChar
 
-StartChar: hyphen
-Encoding: 45 45 45
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: period
-Encoding: 46 46 46
+Encoding: 46 46 5
 Width: 600
 VWidth: 0
 Flags: W
@@ -633,7 +234,7 @@ Validated: 37
 EndChar
 
 StartChar: slash
-Encoding: 47 47 47
+Encoding: 47 47 6
 Width: 600
 VWidth: 0
 Flags: W
@@ -667,7 +268,7 @@ Validated: 1
 EndChar
 
 StartChar: zero
-Encoding: 48 48 48
+Encoding: 48 48 7
 Width: 600
 VWidth: 0
 Flags: W
@@ -694,7 +295,7 @@ Validated: 1
 EndChar
 
 StartChar: one
-Encoding: 49 49 49
+Encoding: 49 49 8
 Width: 600
 VWidth: 0
 Flags: W
@@ -718,7 +319,7 @@ Validated: 37
 EndChar
 
 StartChar: two
-Encoding: 50 50 50
+Encoding: 50 50 9
 Width: 600
 VWidth: 0
 Flags: W
@@ -744,7 +345,7 @@ Validated: 5
 EndChar
 
 StartChar: three
-Encoding: 51 51 51
+Encoding: 51 51 10
 Width: 600
 VWidth: 0
 Flags: W
@@ -767,7 +368,7 @@ Validated: 37
 EndChar
 
 StartChar: four
-Encoding: 52 52 52
+Encoding: 52 52 11
 Width: 600
 VWidth: 0
 Flags: W
@@ -791,7 +392,7 @@ Validated: 5
 EndChar
 
 StartChar: five
-Encoding: 53 53 53
+Encoding: 53 53 12
 Width: 600
 VWidth: 0
 Flags: W
@@ -817,7 +418,7 @@ Validated: 37
 EndChar
 
 StartChar: six
-Encoding: 54 54 54
+Encoding: 54 54 13
 Width: 600
 VWidth: 0
 Flags: W
@@ -845,7 +446,7 @@ Validated: 37
 EndChar
 
 StartChar: seven
-Encoding: 55 55 55
+Encoding: 55 55 14
 Width: 600
 VWidth: 0
 Flags: W
@@ -872,7 +473,7 @@ Validated: 37
 EndChar
 
 StartChar: eight
-Encoding: 56 56 56
+Encoding: 56 56 15
 Width: 600
 VWidth: 0
 Flags: W
@@ -901,7 +502,7 @@ Validated: 37
 EndChar
 
 StartChar: nine
-Encoding: 57 57 57
+Encoding: 57 57 16
 Width: 600
 VWidth: 0
 Flags: W
@@ -932,7 +533,7 @@ Validated: 1
 EndChar
 
 StartChar: colon
-Encoding: 58 58 58
+Encoding: 58 58 17
 Width: 600
 VWidth: 0
 Flags: W
@@ -962,7 +563,7 @@ Validated: 33
 EndChar
 
 StartChar: semicolon
-Encoding: 59 59 59
+Encoding: 59 59 18
 Width: 600
 VWidth: 0
 Flags: W
@@ -995,7 +596,7 @@ Validated: 33
 EndChar
 
 StartChar: less
-Encoding: 60 60 60
+Encoding: 60 60 19
 Width: 600
 VWidth: 0
 Flags: W
@@ -1024,7 +625,7 @@ Validated: 1
 EndChar
 
 StartChar: greater
-Encoding: 62 62 61
+Encoding: 62 62 20
 Width: 600
 VWidth: 0
 Flags: W
@@ -1053,7 +654,7 @@ Validated: 1
 EndChar
 
 StartChar: question
-Encoding: 63 63 62
+Encoding: 63 63 21
 Width: 600
 VWidth: 0
 Flags: W
@@ -1096,18 +697,8 @@ EndSplineSet
 Validated: 37
 EndChar
 
-StartChar: at
-Encoding: 64 64 63
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: A
-Encoding: 65 65 64
+Encoding: 65 65 22
 Width: 600
 VWidth: 0
 Flags: W
@@ -1133,7 +724,7 @@ Validated: 33
 EndChar
 
 StartChar: B
-Encoding: 66 66 65
+Encoding: 66 66 23
 Width: 600
 VWidth: 0
 Flags: W
@@ -1161,18 +752,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: C
-Encoding: 67 67 66
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: D
-Encoding: 68 68 67
+Encoding: 68 68 24
 Width: 600
 VWidth: 0
 Flags: W
@@ -1204,7 +785,7 @@ Validated: 1
 EndChar
 
 StartChar: E
-Encoding: 69 69 68
+Encoding: 69 69 25
 Width: 600
 VWidth: 0
 Flags: W
@@ -1213,15 +794,15 @@ VStem: 260 80<-19.9766 60 595.3 810>
 LayerCount: 3
 Fore
 SplineSet
-560 140 m 1x64
- 560 60 l 1
- 487 60 413 60 340 60 c 1x64
- 340 -20 l 1
- 260 -20 l 1xa4
- 260 -20 261 12 261 60 c 1
- 40 60 l 1
- 40 140 l 1
- 560 140 l 1x64
+560 140 m 5x64
+ 560 60 l 5
+ 487 60 413 60 340 60 c 5x64
+ 340 -20 l 5
+ 260 -20 l 5xa4
+ 260 -20 261 12 261 60 c 5
+ 40 60 l 5
+ 40 140 l 5
+ 560 140 l 5x64
 557 220 m 1
  557 220 305 220 190 220 c 0
  82 220 40 440 40 440 c 1
@@ -1237,21 +818,11 @@ SplineSet
  463.666666667 297.333333333 557 300 557 300 c 1
  557 220 l 1
 EndSplineSet
-Validated: 524289
-EndChar
-
-StartChar: F
-Encoding: 70 70 69
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
 Validated: 1
 EndChar
 
 StartChar: G
-Encoding: 71 71 70
+Encoding: 71 71 26
 Width: 600
 VWidth: 0
 Flags: W
@@ -1281,11 +852,11 @@ SplineSet
  340 797 560 748 560 640 c 2
  560 320 l 25
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: H
-Encoding: 72 72 71
+Encoding: 72 72 27
 Width: 600
 VWidth: 0
 Flags: W
@@ -1314,28 +885,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: I
-Encoding: 73 73 72
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: J
-Encoding: 74 74 73
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: K
-Encoding: 75 75 74
+Encoding: 75 75 28
 Width: 600
 VWidth: 0
 Flags: W
@@ -1366,7 +917,7 @@ Validated: 33
 EndChar
 
 StartChar: L
-Encoding: 76 76 75
+Encoding: 76 76 29
 Width: 600
 VWidth: 0
 Flags: W
@@ -1393,7 +944,7 @@ Validated: 33
 EndChar
 
 StartChar: M
-Encoding: 77 77 76
+Encoding: 77 77 30
 Width: 600
 VWidth: 0
 Flags: W
@@ -1421,7 +972,7 @@ Validated: 1
 EndChar
 
 StartChar: N
-Encoding: 78 78 77
+Encoding: 78 78 31
 Width: 600
 VWidth: 0
 Flags: W
@@ -1451,18 +1002,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: O
-Encoding: 79 79 78
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: P
-Encoding: 80 80 79
+Encoding: 80 80 32
 Width: 600
 VWidth: 0
 Flags: W
@@ -1492,18 +1033,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: Q
-Encoding: 81 81 80
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: R
-Encoding: 82 82 81
+Encoding: 82 82 33
 Width: 600
 VWidth: 0
 Flags: W
@@ -1535,17 +1066,40 @@ Validated: 1
 EndChar
 
 StartChar: S
-Encoding: 83 83 82
+Encoding: 83 83 34
 Width: 600
 VWidth: 0
 Flags: W
+HStem: 120 80<40 261 340 560> 680 80<229.275 370.725>
+VStem: 40 80<442.962 577.46> 261 79<-19.9331 120> 480 80<442.962 577.46>
 LayerCount: 3
 Fore
-Validated: 1
+SplineSet
+560 200 m 1
+ 560 120 l 1
+ 487 120 413 120 340 120 c 1
+ 340 -20 l 1
+ 260 -20 l 1
+ 260 -20 261 72 261 120 c 1
+ 40 120 l 1
+ 40 200 l 1
+ 560 200 l 1
+120 510 m 0
+ 120 431 221 340 300 340 c 0
+ 379 340 480 431 480 510 c 0
+ 480 589 379 680 300 680 c 0
+ 221 680 120 589 120 510 c 0
+300 260.274414062 m 1
+ 180.624023438 279.828125 40 387.48777787 40 510 c 0
+ 40 646 164 760 300 760 c 0
+ 436 760 560 646 560 510 c 0
+ 560 387.48777787 424.375976562 279.828125 300 260.274414062 c 1
+EndSplineSet
+Validated: 524289
 EndChar
 
 StartChar: T
-Encoding: 84 84 83
+Encoding: 84 84 35
 Width: 600
 VWidth: 0
 Flags: W
@@ -1577,38 +1131,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: U
-Encoding: 85 85 84
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: V
-Encoding: 86 86 85
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: W
-Encoding: 87 87 86
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: X
-Encoding: 88 88 87
+Encoding: 88 88 36
 Width: 600
 VWidth: 0
 Flags: W
@@ -1639,7 +1163,7 @@ Validated: 33
 EndChar
 
 StartChar: Y
-Encoding: 89 89 88
+Encoding: 89 89 37
 Width: 600
 VWidth: 0
 Flags: W
@@ -1670,18 +1194,8 @@ EndSplineSet
 Validated: 33
 EndChar
 
-StartChar: Z
-Encoding: 90 90 89
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: bracketleft
-Encoding: 91 91 90
+Encoding: 91 91 38
 Width: 600
 VWidth: 0
 Flags: W
@@ -1705,18 +1219,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: backslash
-Encoding: 92 92 91
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: bracketright
-Encoding: 93 93 92
+Encoding: 93 93 39
 Width: 600
 VWidth: 0
 Flags: W
@@ -1740,38 +1244,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: asciicircum
-Encoding: 94 94 93
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: underscore
-Encoding: 95 95 94
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: grave
-Encoding: 96 96 95
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
 StartChar: a
-Encoding: 97 97 96
+Encoding: 97 97 40
 Width: 600
 VWidth: 0
 Flags: W
@@ -1803,7 +1277,7 @@ Validated: 33
 EndChar
 
 StartChar: b
-Encoding: 98 98 97
+Encoding: 98 98 41
 Width: 600
 VWidth: 0
 Flags: HMW
@@ -1829,7 +1303,7 @@ Validated: 41
 EndChar
 
 StartChar: c
-Encoding: 99 99 98
+Encoding: 99 99 42
 Width: 600
 VWidth: 0
 Flags: W
@@ -1865,7 +1339,7 @@ Validated: 41
 EndChar
 
 StartChar: d
-Encoding: 100 100 99
+Encoding: 100 100 43
 Width: 600
 VWidth: 0
 Flags: W
@@ -1893,7 +1367,7 @@ Validated: 33
 EndChar
 
 StartChar: e
-Encoding: 101 101 100
+Encoding: 101 101 44
 Width: 600
 VWidth: 0
 Flags: W
@@ -1930,7 +1404,7 @@ Validated: 33
 EndChar
 
 StartChar: f
-Encoding: 102 102 101
+Encoding: 102 102 45
 Width: 600
 VWidth: 0
 Flags: W
@@ -1968,7 +1442,7 @@ Validated: 41
 EndChar
 
 StartChar: g
-Encoding: 103 103 102
+Encoding: 103 103 46
 Width: 600
 VWidth: 0
 Flags: W
@@ -2005,7 +1479,7 @@ Validated: 33
 EndChar
 
 StartChar: h
-Encoding: 104 104 103
+Encoding: 104 104 47
 Width: 600
 VWidth: 0
 Flags: W
@@ -2038,7 +1512,7 @@ Validated: 33
 EndChar
 
 StartChar: i
-Encoding: 105 105 104
+Encoding: 105 105 48
 Width: 600
 VWidth: 0
 Flags: W
@@ -2075,7 +1549,7 @@ Validated: 41
 EndChar
 
 StartChar: j
-Encoding: 106 106 105
+Encoding: 106 106 49
 Width: 600
 VWidth: 0
 Flags: W
@@ -2112,7 +1586,7 @@ Validated: 33
 EndChar
 
 StartChar: k
-Encoding: 107 107 106
+Encoding: 107 107 50
 Width: 600
 VWidth: 0
 Flags: W
@@ -2148,7 +1622,7 @@ Validated: 41
 EndChar
 
 StartChar: l
-Encoding: 108 108 107
+Encoding: 108 108 51
 Width: 600
 VWidth: 0
 Flags: W
@@ -2185,7 +1659,7 @@ Validated: 33
 EndChar
 
 StartChar: m
-Encoding: 109 109 108
+Encoding: 109 109 52
 Width: 600
 VWidth: 0
 Flags: W
@@ -2216,7 +1690,7 @@ Validated: 41
 EndChar
 
 StartChar: n
-Encoding: 110 110 109
+Encoding: 110 110 53
 Width: 600
 VWidth: 0
 Flags: W
@@ -2248,7 +1722,7 @@ Validated: 33
 EndChar
 
 StartChar: o
-Encoding: 111 111 110
+Encoding: 111 111 54
 Width: 600
 VWidth: 0
 Flags: W
@@ -2290,7 +1764,7 @@ Validated: 33
 EndChar
 
 StartChar: p
-Encoding: 112 112 111
+Encoding: 112 112 55
 Width: 600
 VWidth: 0
 Flags: W
@@ -2318,7 +1792,7 @@ Validated: 33
 EndChar
 
 StartChar: q
-Encoding: 113 113 112
+Encoding: 113 113 56
 Width: 600
 VWidth: 0
 Flags: W
@@ -2362,7 +1836,7 @@ Validated: 41
 EndChar
 
 StartChar: r
-Encoding: 114 114 113
+Encoding: 114 114 57
 Width: 600
 VWidth: 0
 Flags: W
@@ -2398,7 +1872,7 @@ Validated: 41
 EndChar
 
 StartChar: s
-Encoding: 115 115 114
+Encoding: 115 115 58
 Width: 600
 VWidth: 0
 Flags: W
@@ -2435,7 +1909,7 @@ Validated: 41
 EndChar
 
 StartChar: t
-Encoding: 116 116 115
+Encoding: 116 116 59
 Width: 600
 VWidth: 0
 Flags: W
@@ -2462,7 +1936,7 @@ Validated: 41
 EndChar
 
 StartChar: u
-Encoding: 117 117 116
+Encoding: 117 117 60
 Width: 600
 VWidth: 0
 Flags: W
@@ -2497,7 +1971,7 @@ Validated: 33
 EndChar
 
 StartChar: v
-Encoding: 118 118 117
+Encoding: 118 118 61
 Width: 600
 VWidth: 0
 Flags: W
@@ -2534,7 +2008,7 @@ Validated: 41
 EndChar
 
 StartChar: w
-Encoding: 119 119 118
+Encoding: 119 119 62
 Width: 600
 VWidth: 0
 Flags: W
@@ -2572,7 +2046,7 @@ Validated: 41
 EndChar
 
 StartChar: x
-Encoding: 120 120 119
+Encoding: 120 120 63
 Width: 600
 VWidth: 0
 Flags: W
@@ -2618,7 +2092,7 @@ Validated: 33
 EndChar
 
 StartChar: y
-Encoding: 121 121 120
+Encoding: 121 121 64
 Width: 600
 VWidth: 0
 Flags: W
@@ -2656,11 +2130,11 @@ SplineSet
  463.666666667 297.333333333 557 300 557 300 c 1
  557 220 l 1
 EndSplineSet
-Validated: 524289
+Validated: 1
 EndChar
 
 StartChar: z
-Encoding: 122 122 121
+Encoding: 122 122 65
 Width: 600
 VWidth: 0
 Flags: W
@@ -2695,1336 +2169,6 @@ SplineSet
  460.986328125 789.068359375 543 729 560 670 c 1xbc
 EndSplineSet
 Validated: 33
-EndChar
-
-StartChar: braceleft
-Encoding: 123 123 122
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: bar
-Encoding: 124 124 123
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: braceright
-Encoding: 125 125 124
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: asciitilde
-Encoding: 126 126 125
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni007F
-Encoding: 127 127 126
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0080
-Encoding: 128 128 127
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0081
-Encoding: 129 129 128
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0082
-Encoding: 130 130 129
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0083
-Encoding: 131 131 130
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0084
-Encoding: 132 132 131
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0085
-Encoding: 133 133 132
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0086
-Encoding: 134 134 133
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0087
-Encoding: 135 135 134
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0088
-Encoding: 136 136 135
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0089
-Encoding: 137 137 136
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni008A
-Encoding: 138 138 137
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni008B
-Encoding: 139 139 138
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni008C
-Encoding: 140 140 139
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni008D
-Encoding: 141 141 140
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni008E
-Encoding: 142 142 141
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni008F
-Encoding: 143 143 142
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0090
-Encoding: 144 144 143
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0091
-Encoding: 145 145 144
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0092
-Encoding: 146 146 145
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0093
-Encoding: 147 147 146
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0094
-Encoding: 148 148 147
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0095
-Encoding: 149 149 148
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0096
-Encoding: 150 150 149
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0097
-Encoding: 151 151 150
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0098
-Encoding: 152 152 151
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni0099
-Encoding: 153 153 152
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni009A
-Encoding: 154 154 153
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni009B
-Encoding: 155 155 154
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni009C
-Encoding: 156 156 155
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni009D
-Encoding: 157 157 156
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni009E
-Encoding: 158 158 157
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni009F
-Encoding: 159 159 158
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni00A0
-Encoding: 160 160 159
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: exclamdown
-Encoding: 161 161 160
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: cent
-Encoding: 162 162 161
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: sterling
-Encoding: 163 163 162
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: currency
-Encoding: 164 164 163
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: yen
-Encoding: 165 165 164
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: brokenbar
-Encoding: 166 166 165
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: section
-Encoding: 167 167 166
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: dieresis
-Encoding: 168 168 167
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: copyright
-Encoding: 169 169 168
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ordfeminine
-Encoding: 170 170 169
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: guillemotleft
-Encoding: 171 171 170
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: logicalnot
-Encoding: 172 172 171
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni00AD
-Encoding: 173 173 172
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: registered
-Encoding: 174 174 173
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: macron
-Encoding: 175 175 174
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: degree
-Encoding: 176 176 175
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: plusminus
-Encoding: 177 177 176
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni00B2
-Encoding: 178 178 177
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni00B3
-Encoding: 179 179 178
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: acute
-Encoding: 180 180 179
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: mu
-Encoding: 181 181 180
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: paragraph
-Encoding: 182 182 181
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: periodcentered
-Encoding: 183 183 182
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: cedilla
-Encoding: 184 184 183
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uni00B9
-Encoding: 185 185 184
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ordmasculine
-Encoding: 186 186 185
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: guillemotright
-Encoding: 187 187 186
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: onequarter
-Encoding: 188 188 187
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: onehalf
-Encoding: 189 189 188
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: threequarters
-Encoding: 190 190 189
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: questiondown
-Encoding: 191 191 190
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Agrave
-Encoding: 192 192 191
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Aacute
-Encoding: 193 193 192
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Acircumflex
-Encoding: 194 194 193
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Atilde
-Encoding: 195 195 194
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Adieresis
-Encoding: 196 196 195
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Aring
-Encoding: 197 197 196
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: AE
-Encoding: 198 198 197
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Ccedilla
-Encoding: 199 199 198
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Egrave
-Encoding: 200 200 199
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Eacute
-Encoding: 201 201 200
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Ecircumflex
-Encoding: 202 202 201
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Edieresis
-Encoding: 203 203 202
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Igrave
-Encoding: 204 204 203
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Iacute
-Encoding: 205 205 204
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Icircumflex
-Encoding: 206 206 205
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Idieresis
-Encoding: 207 207 206
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Eth
-Encoding: 208 208 207
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Ntilde
-Encoding: 209 209 208
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Ograve
-Encoding: 210 210 209
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Oacute
-Encoding: 211 211 210
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Ocircumflex
-Encoding: 212 212 211
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Otilde
-Encoding: 213 213 212
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Odieresis
-Encoding: 214 214 213
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: multiply
-Encoding: 215 215 214
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Oslash
-Encoding: 216 216 215
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Ugrave
-Encoding: 217 217 216
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Uacute
-Encoding: 218 218 217
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Ucircumflex
-Encoding: 219 219 218
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Udieresis
-Encoding: 220 220 219
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Yacute
-Encoding: 221 221 220
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: Thorn
-Encoding: 222 222 221
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: germandbls
-Encoding: 223 223 222
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: agrave
-Encoding: 224 224 223
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: aacute
-Encoding: 225 225 224
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: acircumflex
-Encoding: 226 226 225
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: atilde
-Encoding: 227 227 226
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: adieresis
-Encoding: 228 228 227
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: aring
-Encoding: 229 229 228
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ae
-Encoding: 230 230 229
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ccedilla
-Encoding: 231 231 230
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: egrave
-Encoding: 232 232 231
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: eacute
-Encoding: 233 233 232
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ecircumflex
-Encoding: 234 234 233
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: edieresis
-Encoding: 235 235 234
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: igrave
-Encoding: 236 236 235
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: iacute
-Encoding: 237 237 236
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: icircumflex
-Encoding: 238 238 237
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: idieresis
-Encoding: 239 239 238
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: eth
-Encoding: 240 240 239
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ntilde
-Encoding: 241 241 240
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ograve
-Encoding: 242 242 241
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: oacute
-Encoding: 243 243 242
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ocircumflex
-Encoding: 244 244 243
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: otilde
-Encoding: 245 245 244
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: odieresis
-Encoding: 246 246 245
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: divide
-Encoding: 247 247 246
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: oslash
-Encoding: 248 248 247
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ugrave
-Encoding: 249 249 248
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: uacute
-Encoding: 250 250 249
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ucircumflex
-Encoding: 251 251 250
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: udieresis
-Encoding: 252 252 251
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: yacute
-Encoding: 253 253 252
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: thorn
-Encoding: 254 254 253
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
-EndChar
-
-StartChar: ydieresis
-Encoding: 255 255 254
-Width: 600
-VWidth: 0
-Flags: W
-LayerCount: 3
-Fore
-Validated: 1
 EndChar
 EndChars
 EndSplineFont
