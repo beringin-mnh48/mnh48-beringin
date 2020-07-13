@@ -1,1 +1,11 @@
 theme: jekyll-theme-midnight
+
+author:
+  name: 'Yaya - NAH @ MNH (hidayaћ MNH48)'
+  url: https://twitter.com/mnh48com
+
+show_downloads: false
+
+plugins:
+  - jekyll-redirect-from
+  
