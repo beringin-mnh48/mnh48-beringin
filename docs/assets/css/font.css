@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "MNH48 Beringin";
+    font-style: normal;
+    font-weight: 400;
+    src: url('./MNH48Beringin.woff') format('woff'),
+         url('./MNH48Beringin.svg') format('svg');
+}
