@@ -1,6 +1,5 @@
 ---
 title: MNH48 Beringin
-layout: page
 lang: ms-Arab
 language: ms-Arab
 dir: rtl

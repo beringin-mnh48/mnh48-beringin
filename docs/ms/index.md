@@ -1,6 +1,5 @@
 ---
 title: MNH48 Beringin
-layout: page
 lang: ms
 language: ms
 redirect_from: "/ms"
