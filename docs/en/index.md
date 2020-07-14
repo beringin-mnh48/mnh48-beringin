@@ -10,9 +10,13 @@ This is the attempt of making a font for the [Beringin alphabet](https://omniglo
 
 ## Usage
 
-To use, install the font and start typing. Note that Beringin is written vertically.
+To use, install the appropriate version of the font and start typing. Note that Beringin is written vertically. All letters are lowercase, uppercase letters are used to display special letters.
 
-All letters are lowercase, uppercase letters are used to display special letters.
+- MNH48BeringinTegak (MNH48 Beringin Tegak) is what you should use for office files or any software that has vertical text support or rotate tools, it has all the glyphs designed horizontal way so that it will appear correctly in vertical.
+- MNH48BeringinLintang (MNH48 Beringin Lintang) is what you should use for older software that does not have any vertical text support or rotate tools, it has all the glyphs designed vertical way, so you need to manually insert line break after each character, otherwise it will appear wrongly.
+
+![input](../input.png)
+![display](../display.png)
 
 
 ## Table of letters

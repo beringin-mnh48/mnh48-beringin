@@ -10,9 +10,13 @@ Ini percubaan membuat fon tulisan untuk [Aksara Beringin](https://omniglot.com/c
 
 ## Kegunaan
 
-Untuk guna, pasangkan fon dan mula menaip. Ambil perhatian bahawa tulisan Beringin ditulis secara menegak.
+Untuk guna, pasangkan fon dengan versi yang diperlukan dan mula menaip. Ambil perhatian bahawa tulisan Beringin ditulis secara menegak. Semua huruf pakai huruf kecil, huruf besar digunakan untuk paparkan huruf istimewa.
 
-Semua huruf pakai huruf kecil, huruf besar digunakan untuk paparkan huruf istimewa.
+- MNH48BeringinTegak (MNH48 Beringin Tegak) ialah versi yang anda patut guna untuk fail pejabat atau sebarang perisian yang mempunyai sokongan tulisan menegak atau alat pemutar, ia mempunyai glif yang direka secara melintang supaya ia dipaparkan dengan betul ketika menegak.
+- MNH48BeringinLintang (MNH48 Beringin Lintang) ialah versi yang anda patut guna untuk perisian lama yang tiada sokongan tulisan menegak atau alat pemutar, ia mempunyai glif yang direka secara menegak, jadi anda perlu masukkan pemutus barisan secara manual selepas setiap aksara, jika tidak ia akan dipaparkan secara salah.
+
+![input](../input.png)
+![paparan](../display.png)
 
 
 ## Jadual huruf
