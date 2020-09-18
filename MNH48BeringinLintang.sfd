@@ -3,16 +3,16 @@ FontName: MNH48BeringinLintang
 FullName: MNH48 Beringin Lintang
 FamilyName: MNH48 Beringin Lintang
 Weight: Regular
-Copyright: Copyright (c) 2020, Yaya MNH48.\nReleased under SIL Open Font License.\n\nFont for Aksara Beringin.\nThis font variant is meant for horizontal setting.\nIt will displayed wrongly on vertical.\nhttp://jawi.mnh48.moe/mnh48-beringin
+Copyright: Copyright (c) 2020, Yaya MNH48.\nReleased under SIL Open Font License.\n\nFont for Aksara Beringin.\nThis font variant is meant for horizontal setting.\nIt will displayed wrongly on vertical.\nhttp://beringin.mnh48.moe/mnh48-beringin
 UComments: "2020-7-11: Created with FontForge (http://fontforge.org)"
-Version: 4.1
+Version: 4.2
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 50
 Ascent: 800
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x0004199a
+sfntRevision: 0x00043333
 LayerCount: 3
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
@@ -25,7 +25,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1594506946
-ModificationTime: 1600370135
+ModificationTime: 1600448656
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
