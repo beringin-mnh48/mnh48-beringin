@@ -1,10 +1,3 @@
----
-title: MNH48 Beringin
-lang: ms
-language: ms
-redirect_from: "/ms"
----
-
 [Read in English](README.md)
 
 # MNH48 Beringin
