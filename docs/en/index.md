@@ -74,7 +74,7 @@ You can download the zip file [here](https://github.com/beringin-mnh48/mnh48-ber
 
 Preview:
 
-![Previewing MNH48 Beringin Tegak font in action](../../assets/img/preview-tegak.gif)
+![Previewing MNH48 Beringin Tegak font in action](../assets/img/preview-tegak.gif)
 
 Note: This GIF had the best framerate I could record on my 32-bit netbook, consider [donating](https://meta.mnh48.moe/en/support) so I can build a decent computer for better maintenance of this repository.
 
@@ -88,7 +88,7 @@ You can download the zip file [here](https://github.com/beringin-mnh48/mnh48-ber
 
 Preview:
 
-![Previewing MNH48 Beringin Lintang font in action](../../assets/img/preview-lintang.gif)
+![Previewing MNH48 Beringin Lintang font in action](../assets/img/preview-lintang.gif)
 
 Note: This GIF had the best framerate I could record on my 32-bit netbook, consider [donating](https://meta.mnh48.moe/en/support) so I can build a decent computer for better maintenance of this repository.
 
