@@ -111,7 +111,7 @@ There are different ways of writing on special keyboard so that depends on your 
 
 Preview (uses [Beringin fcitx](https://github.com/beringin-mnh48/fcitx-table-beringin/) IME keyboard layout):
 
-![Previewing MNH48 Beringin PUA font in action](docs/assets/img/preview-pua.gif)
+![Previewing MNH48 Beringin PUA font in action](../assets/img/preview-pua.gif)
 
 Note: This GIF had the best framerate I could record on my 32-bit netbook, consider [donating](https://meta.mnh48.moe/en/support) so I can build a decent computer for better maintenance of this repository.
 
